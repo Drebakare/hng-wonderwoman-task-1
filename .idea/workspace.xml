@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8150591-8d95-477e-b4f8-9245343dafa2" name="Default Changelist" comment="" />
+    <list default="true" id="d8150591-8d95-477e-b4f8-9245343dafa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/scripts/00177-Drebakare.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/00177-Drebakare.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591327998212</updated>
-      <workItem from="1591327999816" duration="2395000" />
+      <workItem from="1591327999816" duration="2742000" />
     </task>
     <servers />
   </component>
